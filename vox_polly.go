@@ -1,4 +1,4 @@
-// wevox_polly.go
+// vox_polly.go
 package main
 
 import (
